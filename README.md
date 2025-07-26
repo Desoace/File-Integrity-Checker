@@ -11,4 +11,5 @@ The File Integrity Checker is a Python-based tool designed to monitor and verify
 
 
 #OUTPUT
-<img width="925" height="255" alt="Image" src="https://github.com/user-attachments/assets/507f5d2f-6e02-4559-b524-7d6e6c09154e" />
+<img width="1115" height="376" alt="Image" src="https://github.com/user-attachments/assets/b6fd122e-d061-4839-9e34-61dfdc66b5d1" />
+<img width="925" height="255" alt="Image" src="https://github.com/user-attachments/assets/3c3c86b0-d036-47a5-a7e5-a05b19fe5af5" />
